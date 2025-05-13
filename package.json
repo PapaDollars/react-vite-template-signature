@@ -9,6 +9,8 @@
     "type": "git",
     "url": "https://github.com/PapaDollars/react-vite-template-signature"
   },
+  "license": "MIT",
+  "keywords": ["vite", "react", "template", "signature"],
   "scripts": {
     "build": "vite build && node scripts/add-signature.js"
   },
